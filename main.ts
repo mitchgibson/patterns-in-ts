@@ -1,8 +1,5 @@
-
-class Test {
-    constructor() {
-        console.log('Test')
-    }
+function main(): void {
+    console.log("Hello World!");
 }
 
-new Test();
+main();
